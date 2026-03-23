@@ -9,7 +9,7 @@
     { "src": "/Maqsood", "dest": "/Maqsood.js" },
     { "src": "/Wikan", "dest": "/Wikan.js" },
     { "src": "/ahtsham", "dest": "/ahtsham.js" },
-    { "src": "/waris", "dest": "/waris.js" },
+    { "src": "/Zawar", "dest": "/Zawar.js" },
     { "src": "/zubair", "dest": "/zubair.js" },
     { "src": "/zubairpass", "dest": "/zubairpass.js" }
   ]
