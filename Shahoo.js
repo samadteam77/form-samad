@@ -49,7 +49,7 @@ export default async function handler(req, res) {
 
     res
       .status(200)
-      .json({ success: true, message: "Data sent via email (Asif)" });
+      .json({ success: true, message: "Data sent via email (Samad)" });
   } catch (error) {
     console.error("Email send error:", error);
     res.status(500).json({ error: "Failed to send email" });
